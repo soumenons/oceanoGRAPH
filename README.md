@@ -1,6 +1,7 @@
 # 🌊 oceanoGRAPH: Graph Neural Networks in Ocean Temperature Prediction
 ![](/img/graphdata.png?raw=true "Graph generated with Argo float data and a radius threshold of 500km")
 The oceanoGRAPH project aims to investigate the feasibility of using graph neural networks (GNN) in ocean temperature prediction, particularly with the [Argo program](https://argo.ucsd.edu/) dataset.
+
 (Based on our final project for AMATH 455 - Scientific Machine Learning)
 
 ## Overview
@@ -8,3 +9,6 @@ The Argo program conducts oceanographic research through fleets of floats deploy
 
 ## Report
 The report for this project can be found [here!](https://github.com/soumenons/oceanoGRAPH/blob/main/FinalProject_Report.pdf)
+
+## Code
+The associated notebook can be found [here!](https://github.com/soumenons/oceanoGRAPH/blob/main/oceanoGRAPH_notebook.ipynb)
